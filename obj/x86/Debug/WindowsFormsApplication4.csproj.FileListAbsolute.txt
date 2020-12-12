@@ -1,0 +1,9 @@
+D:\Pasha\Prog\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+D:\Pasha\Prog\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+D:\Pasha\Prog\WindowsFormsApplication4\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Pasha\Prog\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+D:\Pasha\Prog\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+D:\Pasha\Prog\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Pasha\Prog\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Pasha\Prog\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+D:\Pasha\Prog\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
